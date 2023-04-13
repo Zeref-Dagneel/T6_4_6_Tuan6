@@ -10,13 +10,12 @@
 }
 
 #wrapper {
-    background-color: #9999;
+    background-color: mediumseagreen;
     width: 400px;
     padding: 10px;
     border: 1px solid #999;
     border-radius: 5px;
 }
-
 div {
     width: 90px;
 }
